@@ -23,6 +23,11 @@ PQ Score: 18.2 (moderate performance with room for optimization on certain class
 SQ Score: 49.6 (excellent boundary segmentation).
 RQ Score: 22.8 (challenges with instance differentiation, especially in cluttered scenes).
 
+Here are some examples of the model in action:
+<img width="1280" height="586" alt="image" src="https://github.com/user-attachments/assets/87c0a373-67aa-496b-b386-703487abbc59" />
+<img width="1280" height="586" alt="image" src="https://github.com/user-attachments/assets/af17cb3f-3a10-42a9-a8ef-bfc7b3b0293e" />
+<img width="1280" height="586" alt="image" src="https://github.com/user-attachments/assets/c4610c38-e209-4d0a-8103-01e114c17ab0" />
+
 # Feedback and Observations
 
 Strengths:
