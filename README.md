@@ -1,6 +1,6 @@
 # Panoptic Segmentation Engine on COCO Dataset
 
-An implementation of a Panoptic Feature Pyramid Network (Panoptic FPN) for comprehensive scene understanding, combining instance and semantic segmentation tasks on the COCO dataset. Developed as part of the Applied Artificial Intelligence Program at the University of San Diego (USD).
+An implementation of a Panoptic Feature Pyramid Network (Panoptic FPN) for comprehensive scene understanding, combining instance and semantic segmentation tasks on the COCO dataset.
 
 ## 🚀 Project Overview
 Panoptic segmentation unifies semantic segmentation (classifying "stuff" categories like sky or road) and instance segmentation (detecting distinct object instances like cars or people). This project utilizes a **Panoptic FPN** architecture with a **ResNet-50** backbone to process multi-scale inputs and execute dual-head pixel-level and instance-level segmentation.
